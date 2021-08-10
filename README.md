@@ -1,2 +1,2 @@
 # Network-Proposal
-Class Project for Business Data Communications. Design a Network for an underprivileged community.
+This class project for Business Data Communications tasked us to design a network proposal for an underprivileged community.
